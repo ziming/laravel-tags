@@ -2,6 +2,17 @@
 
 All notable changes to `laravel-tags` will be documented in this file
 
+## 4.10.2 - 2026-02-13
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.4.0 to 2.5.0 by @dependabot[bot] in https://github.com/spatie/laravel-tags/pull/552
+* Bump actions/checkout from 5 to 6 by @dependabot[bot] in https://github.com/spatie/laravel-tags/pull/549
+* Bump stefanzweifel/git-auto-commit-action from 6 to 7 by @dependabot[bot] in https://github.com/spatie/laravel-tags/pull/548
+* Add support for spatie/eloquent-sortable v5 by @lloricode in https://github.com/spatie/laravel-tags/pull/553
+
+**Full Changelog**: https://github.com/spatie/laravel-tags/compare/4.10.1...4.10.2
+
 ## 4.10.1 - 2025-10-13
 
 ### What's Changed
