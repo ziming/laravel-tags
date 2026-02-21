@@ -2,6 +2,12 @@
 
 All notable changes to `laravel-tags` will be documented in this file
 
+## 4.11.0 - 2026-02-21
+
+### What's Changed
+
+- Add Laravel 13 support
+
 ## 4.10.2 - 2026-02-13
 
 ### What's Changed
