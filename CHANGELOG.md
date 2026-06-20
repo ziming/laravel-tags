@@ -2,6 +2,20 @@
 
 All notable changes to `laravel-tags` will be documented in this file
 
+## 4.12.0 - 2026-06-20
+
+### What's Changed
+
+* Bump dependabot/fetch-metadata from 2.5.0 to 3.0.0 by @dependabot[bot] in https://github.com/spatie/laravel-tags/pull/556
+* Bump dependabot/fetch-metadata from 3.0.0 to 3.1.0 by @dependabot[bot] in https://github.com/spatie/laravel-tags/pull/559
+* perf: remove n+1 by @nandi95 in https://github.com/spatie/laravel-tags/pull/560
+
+### New Contributors
+
+* @nandi95 made their first contribution in https://github.com/spatie/laravel-tags/pull/560
+
+**Full Changelog**: https://github.com/spatie/laravel-tags/compare/4.11.0...4.12.0
+
 ## 4.11.0 - 2026-02-21
 
 ### What's Changed
